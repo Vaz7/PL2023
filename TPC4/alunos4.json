@@ -1,0 +1,20 @@
+[
+  {
+    "Numero": "3162",
+    "Nome": "Candido Faisca",
+    "Curso": "Teatro",
+    "Notas_sum": 39
+  },
+  {
+    "Numero": "7777",
+    "Nome": "Cristiano Ronaldo",
+    "Curso": "Desporto",
+    "Notas_sum": 72
+  },
+  {
+    "Numero": "264",
+    "Nome": "Marcelo Sousa",
+    "Curso": "Ciencia Politica",
+    "Notas_sum": 76
+  }
+]
